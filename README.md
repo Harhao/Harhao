@@ -32,22 +32,22 @@
 <div align="center">
 
 <!-- Pinned Repos - Replace with your actual repo names -->
-<a href="https://github.com/Harhao/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Harhao/miniProgram">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=miniProgram&theme=tokyonight&hide_border=true" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Harhao/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Harhao/wechatPubSpider">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=wechatPubSpider&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Harhao/REPO_NAME_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Harhao/bundlekit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=bundlekit&theme=tokyonight&hide_border=true" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Harhao/REPO_NAME_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Harhao/dualler">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=dualler&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
