@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,25:0d4f8b,50:1a73e8,75:0d4f8b,100:0a1628&height=220&section=header&text=Harhao&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1a73e8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1a73e8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi%2C+I'm+Harhao+%F0%9F%91%8B;A+passionate+Full+Stack+Developer;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
