@@ -31,24 +31,10 @@
 
 <div align="center">
 
-<!-- Pinned Repos - Replace with your actual repo names -->
-<a href="https://github.com/Harhao/miniProgram">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=miniProgram&theme=tokyonight&hide_border=true" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Harhao/wechatPubSpider">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=wechatPubSpider&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Harhao/bundlekit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=bundlekit&theme=tokyonight&hide_border=true" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Harhao/dualler">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=dualler&theme=tokyonight&hide_border=true" />
-</a>
+| | |
+|:---:|:---:|
+| 📱 **[miniProgram](https://github.com/Harhao/miniProgram)** | 🕷️ **[wechatPubSpider](https://github.com/Harhao/wechatPubSpider)** |
+| 📦 **[bundlekit](https://github.com/Harhao/bundlekit)** | 🔄 **[dualler](https://github.com/Harhao/dualler)** |
 
 </div>
 
