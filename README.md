@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=220&section=header&text=Harhao&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,60:6e40c9,100:00d2ff&height=220&section=header&text=Harhao&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -72,8 +72,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of my repositories!
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/3b19f4a18c5a4b69a2eb67b95cd1c81f1d8f74e9/bottom_footer.svg" width="100%"/>
+### Thanks for visiting! 👋
 
 </div>
