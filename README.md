@@ -6,44 +6,11 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/>
-
-<!-- Social Badges -->
-<a href="https://github.com/Harhao">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
 </div>
 
 ---
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2057f0c0-5149-4480-9a52-f7b2de3d7a7e" width="35"> About Me
-
-```javascript
-const harhao = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Java", "Python", "Go", "Rust", "Dart"],
-    askMeAbout: ["Web Dev", "Mobile Dev", "Open Source"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            mobile: ["Android", "Flutter"],
-        },
-        backEnd: {
-            nodejs: ["Express", "NestJS"],
-            java: ["Spring Boot"],
-        },
-        devOps: ["Docker", "K8s", "CI/CD"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-    },
-    currentFocus: "Building amazing products 🚀",
-    funFact: "I code with ☕ and 🎵",
-};
-```
-
----
-
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff6a0780-2faa-40a8-b799-2940a26b8db3" width="35"> Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
@@ -79,7 +46,7 @@ const harhao = {
 
 ---
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2873cf1-8375-4198-8915-e8d58f016e39" width="35"> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -103,14 +70,17 @@ const harhao = {
 
 ---
 
-<!-- Snake Animation -->
+## 🏆 GitHub Trophies
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/Harhao/Harhao/output/github-snake-dark.svg" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harhao&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
 </div>
 
 ---
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fbc1c50-514b-4b40-9d72-247baa3629eb" width="35"> Random Dev Quote
+## 💬 Random Dev Quote
 
 <div align="center">
 
