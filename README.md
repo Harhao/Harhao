@@ -14,17 +14,6 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<a href="https://github.com/Harhao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harhao&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-&nbsp;&nbsp;
-<!-- Top Languages Card -->
-<a href="https://github.com/Harhao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harhao&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
 
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harhao&theme=radical&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=1a73e8&currStreakLabel=1a73e8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" height="170" />
