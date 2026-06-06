@@ -31,12 +31,30 @@
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| 📱 **[miniProgram](https://github.com/Harhao/miniProgram)** | 🕷️ **[wechatPubSpider](https://github.com/Harhao/wechatPubSpider)** |
-| 📦 **[bundlekit](https://github.com/Harhao/bundlekit)** | 🔄 **[dualler](https://github.com/Harhao/dualler)** |
-| 📰 **[zhihu-server](https://github.com/Harhao/zhihu-server)** | 🤖 **[auto-pilot-deploy](https://github.com/Harhao/auto-pilot-deploy)** |
-| 🎬 **[toutiao](https://github.com/Harhao/toutiao)** | |
+<a href="https://github.com/Harhao/miniProgram">
+  <img src="https://img.shields.io/badge/📱%20miniProgram-1a73e8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Harhao/wechatPubSpider">
+  <img src="https://img.shields.io/badge/🕷️%20wechatPubSpider-1a73e8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Harhao/bundlekit">
+  <img src="https://img.shields.io/badge/📦%20bundlekit-1a73e8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Harhao/dualler">
+  <img src="https://img.shields.io/badge/🔄%20dualler-1a73e8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Harhao/zhihu-server">
+  <img src="https://img.shields.io/badge/📰%20zhihu--server-1a73e8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Harhao/auto-pilot-deploy">
+  <img src="https://img.shields.io/badge/🤖%20auto--pilot--deploy-1a73e8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Harhao/toutiao">
+  <img src="https://img.shields.io/badge/🎬%20toutiao-1a73e8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Harhao/simple-redux">
+  <img src="https://img.shields.io/badge/🗃️%20simple--redux-1a73e8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
