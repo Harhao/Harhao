@@ -27,6 +27,33 @@
 
 ---
 
+## 🔥 Popular Projects
+
+<div align="center">
+
+<!-- Pinned Repos - Replace with your actual repo names -->
+<a href="https://github.com/Harhao/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Harhao/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Harhao/REPO_NAME_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Harhao/REPO_NAME_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harhao&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
 <div align="center">
