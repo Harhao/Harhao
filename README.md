@@ -1,10 +1,38 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,60:6e40c9,100:00d2ff&height=220&section=header&text=Harhao&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,25:0d4f8b,50:1a73e8,75:0d4f8b,100:0a1628&height=220&section=header&text=Harhao&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1a73e8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;Full+Stack+Developer+%7C+Open+Source+Enthusiast;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<a href="https://github.com/Harhao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harhao&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+&nbsp;&nbsp;
+<!-- Top Languages Card -->
+<a href="https://github.com/Harhao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harhao&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harhao&theme=radical&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=1a73e8&currStreakLabel=1a73e8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" height="170" />
+
+<br/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harhao&bg_color=0d1117&color=1a73e8&line=1a73e8&point=ffffff&area=true&area_color=1a73e8&hide_border=true" width="95%" />
 
 </div>
 
@@ -41,30 +69,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Harhao&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" height="170" />
-&nbsp;&nbsp;
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harhao&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" height="170" />
-
-<br/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harhao&theme=radical&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" height="170" />
-
-<br/>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harhao&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="95%" />
 
 </div>
 
