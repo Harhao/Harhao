@@ -35,6 +35,8 @@
 |:---:|:---:|
 | 📱 **[miniProgram](https://github.com/Harhao/miniProgram)** | 🕷️ **[wechatPubSpider](https://github.com/Harhao/wechatPubSpider)** |
 | 📦 **[bundlekit](https://github.com/Harhao/bundlekit)** | 🔄 **[dualler](https://github.com/Harhao/dualler)** |
+| 📰 **[zhihu-server](https://github.com/Harhao/zhihu-server)** | 🤖 **[auto-pilot-deploy](https://github.com/Harhao/auto-pilot-deploy)** |
+| 🎬 **[toutiao](https://github.com/Harhao/toutiao)** | |
 
 </div>
 
