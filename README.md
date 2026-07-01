@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>📦 <a href="https://github.com/Harhao/bundlekit">bundlekit</a></td>
-    <td>一套配置，驱动多种构建工具</td>
+    <td>统一web构建配置，告别配置迁移</td>
   </tr>
   <tr>
     <td>🔄 <a href="https://github.com/Harhao/dualler">dualler</a></td>
